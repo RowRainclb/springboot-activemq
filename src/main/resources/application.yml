@@ -1,0 +1,7 @@
+#spring:
+#  activemq:
+#    broker-url: tcp://192.168.130.62:61616
+#    user: admin
+#    password: admin
+
+queue: kmx.pas.job.sgtest
